@@ -1,8 +1,8 @@
 # Portfólio – Integração e Entrega Contínua – 2026/1
 ## 👤 Aluno
-- Nome:
-- LinkedIn:
-- GitHub:
+- Nome: João Vitor Rodrigues Braga
+- LinkedIn: https://www.linkedin.com/in/joaovitor-rodriguesbraga/
+- GitHub: ttps://github.com/jvrb
   
 ---
 
